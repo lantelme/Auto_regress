@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
+//Для загрузки в git
 public class AuthorizationTests {
     private static final String BASE_URI = "http://localhost:50044/api/v1";
 
